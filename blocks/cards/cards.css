@@ -12,7 +12,7 @@
   background-color: var(--background-color);
 }
 
-.cards .cards-card-body .test {
+.cards .cards-card-body-test .test {
   margin: 16px;
 }
 
