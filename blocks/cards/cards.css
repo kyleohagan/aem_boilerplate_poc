@@ -1,3 +1,8 @@
+/* TRICK TO TEST LOCAL LIVE RELOAD */
+body {
+    background-color: red !important;
+}
+
 .cards > ul {
   list-style: none;
   margin: 0;
